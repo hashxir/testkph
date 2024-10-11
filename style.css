@@ -324,7 +324,7 @@ select {
         float: right;
         flex: auto;
         position: absolute;
-        font-size: 1.7em;
+        font-size: 1.8em;
     }
     
     .detailtshirt {
@@ -332,16 +332,16 @@ select {
         float: right;
         flex: auto;
         position: absolute;
-        font-size: 1.6em;
+        font-size: 2.1em;
         
         
-        font-family: 'montserrat', sans-serif;
+        font-family: 'futura', sans-serif;
     }
 
     .detailposterall {
         margin-top: 200px;
         
-        font-family: 'montserrat', sans-serif;
+        font-family: 'futura', sans-serif;
     }
     
     table {
@@ -382,11 +382,11 @@ select {
     }
 
     select {
-        font-size: 1em;
+        font-size: 1.2em;
         border-radius: 10px;
         border-radius: 10px;
         padding: 20px;
-        font-family: 'Bebas Kai', sans-serif;
+        font-family: 'futura', sans-serif;
         border-color: white;
         color: white;
         background-color: black;
